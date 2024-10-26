@@ -1,7 +1,7 @@
 
 ---
 
-# 📖 RAG App for PDF Context Extraction
+# 📖 Multimodal RAG App for PDF Context Extraction
 
 **🔍 Overview:**  
 Welcome to the RAG App! This project is designed to help users extract and understand context from complex PDFs that contain mixed data formats, including text, tables, and images. By leveraging advanced retrieval and generation techniques, the app provides insightful answers to user queries based on the extracted content.
